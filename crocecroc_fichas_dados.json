@@ -321,31 +321,161 @@
     {
      "id": "argo",
      "nome": "Argo",
-     "menuNome": "Croc & Croc — Argo",
-     "quem": "Wagner Morais (dono) · Argo Hamburgueria Artesanal · especialista em carnes, fornecedor local validado — indisponível por período indeterminado; menu do circuito ainda não definido",
-     "precoMenu": 59,
+     "menuNome": "Croc & Croc — Argo (menu básico · hipótese)",
+     "quem": "Wagner Morais (dono) · Argo Hamburgueria Artesanal · especialista em carnes, fornecedor local validado. Menu básico proposto (hipótese) — validar com o Wagner quando ele retomar.",
+     "precoMenu": 59.0,
      "pratos": [
       {
-       "tempo": "Prato da casa",
-       "nome": "⚠ Menu do Argo — a definir",
-       "desc": "Wagner segue indisponível por período indeterminado — retomar quando ele voltar, ou avançar com a equipe se o prazo do circuito apertar",
-       "ref": 0,
+       "tempo": "Cheguei",
+       "nome": "Croquete de Costela Desfiada com Maionese Defumada",
+       "desc": "entrada crocante que abre com a carne — hipótese a validar com o Wagner.",
+       "ref": 28,
        "comps": [
         {
-         "t": "A definir",
+         "t": "Croquete de costela",
          "itens": [
           [
-           "A confirmar com a equipe",
+           "Costela bovina desfiada",
+           70,
+           "g",
+           42
+          ],
+          [
+           "Farinha de rosca (empanar)",
+           25,
+           "g",
+           6
+          ],
+          [
+           "Batata (liga)",
+           40,
+           "g",
+           5
+          ],
+          [
+           "Maionese defumada",
+           20,
+           "g",
+           30
+          ],
+          [
+           "Óleo para fritura",
+           25,
+           "ml",
+           9
+          ]
+         ]
+        }
+       ]
+      },
+      {
+       "tempo": "À mesa",
+       "nome": "Hambúrguer Artesanal Argo",
+       "desc": "PRATO OFICIAL (hipótese) — blend artesanal da casa, pão brioche, cheddar, cebola caramelizada, bacon e molho da casa. Especialidade do Wagner em carnes.",
+       "ref": 48,
+       "comps": [
+        {
+         "t": "Hambúrguer Argo",
+         "itens": [
+          [
+           "Blend bovino artesanal",
+           170,
+           "g",
+           45
+          ],
+          [
+           "Pão brioche",
            1,
            "un",
-           0
+           3
+          ],
+          [
+           "Queijo cheddar",
+           35,
+           "g",
+           34
+          ],
+          [
+           "Cebola caramelizada",
+           30,
+           "g",
+           8
+          ],
+          [
+           "Bacon (fatias)",
+           20,
+           "g",
+           42
+          ],
+          [
+           "Molho da casa",
+           20,
+           "g",
+           28
+          ]
+         ]
+        }
+       ]
+      },
+      {
+       "tempo": "Fica mais um pouco",
+       "nome": "Brownie de Chocolate com Sorvete de Creme",
+       "desc": "sobremesa simples e forte para fechar — hipótese a validar.",
+       "ref": 22,
+       "comps": [
+        {
+         "t": "Brownie e sorvete",
+         "itens": [
+          [
+           "Chocolate 70%",
+           30,
+           "g",
+           48
+          ],
+          [
+           "Manteiga",
+           15,
+           "g",
+           40
+          ],
+          [
+           "Ovo",
+           25,
+           "g",
+           16
+          ],
+          [
+           "Açúcar",
+           25,
+           "g",
+           5
+          ],
+          [
+           "Farinha de trigo",
+           15,
+           "g",
+           6
+          ],
+          [
+           "Sorvete de creme (porção)",
+           60,
+           "ml",
+           25
           ]
          ]
         }
        ]
       }
      ],
-     "ideias": []
+     "ideias": [
+      {
+       "tempo": "Extra / Drink",
+       "nome": "Chopp Artesanal (upsell)",
+       "desc": "harmoniza com o blend — parceria de cervejaria local.",
+       "custo": 6,
+       "ref": 22
+      }
+     ]
     }
    ]
   }
