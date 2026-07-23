@@ -1,0 +1,354 @@
+{
+ "versao": 2,
+ "exportado": "2026-07-23T17:30:25.669Z",
+ "circuitos": [
+  {
+   "id": "croc",
+   "nome": "Croc & Croc",
+   "casas": [
+    {
+     "id": "espelunca",
+     "nome": "Espelunca",
+     "menuNome": "Croc & Croc — Espelunca (vegetariano · validado)",
+     "quem": "Menu vegetariano · fichas validadas pela chef Camila com custos e quantidades reais da cozinha. CMV do menu R$ 15,03 · venda sugerida pela chef: R$ 70 (CMV 21,5%).",
+     "precoMenu": 70,
+     "pratos": [
+      {
+       "tempo": "Cheguei",
+       "nome": "Tempurá de Quiabo com Tarê de Mangaba",
+       "desc": "Entrada — tempurá de quiabo (receita rende 2 porções) + tarê de mangaba (porção 30 g). Custos reais da chef Camila. Detalhe de cada sub-receita no PDF.",
+       "ref": 22,
+       "comps": [
+        {
+         "t": "Entrada",
+         "itens": [
+          [
+           "Tempurá de quiabo (porção · receita rende 2)",
+           1,
+           "un",
+           1.54
+          ],
+          [
+           "Tarê de mangaba (porção 30 g)",
+           1,
+           "un",
+           1.76
+          ]
+         ]
+        }
+       ]
+      },
+      {
+       "tempo": "À mesa",
+       "nome": "Hambúrguer de Feijão Verde",
+       "desc": "PRATO OFICIAL — disco de feijão verde empanado no panko, pão Panetta, molho de coentro, soja, queijo coalho e banana-da-terra. Montagem e custos reais da chef Camila. (Obs.: queijo coalho = não vegano.)",
+       "ref": 36,
+       "comps": [
+        {
+         "t": "Montagem do sanduíche",
+         "itens": [
+          [
+           "Hambúrguer de feijão verde empanado (disco 125 g + panko)",
+           1,
+           "un",
+           3.05
+          ],
+          [
+           "Pão Panetta",
+           1,
+           "un",
+           1.4
+          ],
+          [
+           "Molho de coentro",
+           30,
+           "g",
+           15.33
+          ],
+          [
+           "Soja",
+           45,
+           "g",
+           26.67
+          ],
+          [
+           "Queijo coalho",
+           50,
+           "g",
+           25
+          ],
+          [
+           "Banana-da-terra",
+           50,
+           "g",
+           6.6
+          ]
+         ]
+        }
+       ]
+      },
+      {
+       "tempo": "Fica mais um pouco",
+       "nome": "Creme de Umbu com Farofa de Castanha e Coco Queimado",
+       "desc": "Sobremesa — creme de umbu (porção 120 g) + farofa de castanha (porção 40 g) + coco queimado (40 g). Custos reais da chef Camila.",
+       "ref": 20,
+       "comps": [
+        {
+         "t": "Sobremesa",
+         "itens": [
+          [
+           "Creme de umbu (porção 120 g)",
+           1,
+           "un",
+           2.29
+          ],
+          [
+           "Coco queimado (coco ralado)",
+           40,
+           "g",
+           21.25
+          ],
+          [
+           "Farofa de castanha (porção 40 g)",
+           1,
+           "un",
+           0.9
+          ]
+         ]
+        }
+       ]
+      }
+     ],
+     "ideias": [
+      {
+       "tempo": "À mesa",
+       "nome": "Hambúrguer 100% vegano (trocar coalho por queijo vegano)",
+       "desc": "mesma montagem do prato oficial, porém com queijo vegano no lugar do coalho — para versão totalmente plant based (revalidar custo com a chef).",
+       "custo": 8,
+       "ref": 36
+      },
+      {
+       "tempo": "Extra / Drink",
+       "nome": "Suco de Umbu com Hortelã (upsell)",
+       "desc": "puxa o fio ácido da sobremesa para a chegada.",
+       "custo": 4,
+       "ref": 16
+      }
+     ]
+    },
+    {
+     "id": "blend",
+     "nome": "Blend Burger",
+     "menuNome": "Croc & Croc — Blend",
+     "quem": "Gravação confirmada qua 22/07 · rápido · crocância · ticket baixo — menu real (Fran, 21/07). Custos ainda em estimativa.",
+     "precoMenu": 59,
+     "pratos": [
+      {
+       "tempo": "Cheguei",
+       "nome": "Queijo Coalho com Bacon Crocante e Melaço de Caju Apimentado",
+       "desc": "dado real (Fran, 21/07)",
+       "ref": 26,
+       "comps": [
+        {
+         "t": "Coalho e bacon",
+         "itens": [
+          [
+           "Queijo coalho",
+           80,
+           "g",
+           32
+          ],
+          [
+           "Bacon (fatias)",
+           20,
+           "g",
+           31
+          ],
+          [
+           "Melaço de caju apimentado",
+           15,
+           "ml",
+           22
+          ],
+          [
+           "Pimenta calabresa",
+           2,
+           "g",
+           20
+          ]
+         ]
+        }
+       ]
+      },
+      {
+       "tempo": "À mesa",
+       "nome": "Smash Duplo no Brioche Caramelizado",
+       "desc": "crocante de parmesão e maionese trufada — dado real (Fran, 21/07)",
+       "ref": 46,
+       "comps": [
+        {
+         "t": "Smash duplo",
+         "itens": [
+          [
+           "Carne bovina (smash duplo)",
+           200,
+           "g",
+           32
+          ],
+          [
+           "Pão brioche caramelizado",
+           1,
+           "un",
+           1.8
+          ],
+          [
+           "Queijo mussarela",
+           30,
+           "g",
+           32
+          ],
+          [
+           "Crocante de parmesão",
+           25,
+           "g",
+           48
+          ],
+          [
+           "Maionese trufada",
+           15,
+           "g",
+           32
+          ]
+         ]
+        }
+       ]
+      },
+      {
+       "tempo": "Fica mais um pouco",
+       "nome": "Mini Duo de Chocolate — Brigadeiro e Mousse",
+       "desc": "crocante de bacon caramelizado e amendoim — dado real (Fran, 21/07)",
+       "ref": 22,
+       "comps": [
+        {
+         "t": "Brigadeiro",
+         "itens": [
+          [
+           "Leite condensado",
+           35,
+           "g",
+           18
+          ],
+          [
+           "Chocolate 70%",
+           18,
+           "g",
+           48
+          ],
+          [
+           "Manteiga",
+           8,
+           "g",
+           40
+          ]
+         ]
+        },
+        {
+         "t": "Mousse",
+         "itens": [
+          [
+           "Chocolate 70%",
+           28,
+           "g",
+           48
+          ],
+          [
+           "Creme de leite",
+           25,
+           "g",
+           16
+          ],
+          [
+           "Ovo",
+           18,
+           "g",
+           16
+          ]
+         ]
+        },
+        {
+         "t": "Crocante de bacon e amendoim",
+         "itens": [
+          [
+           "Bacon",
+           12,
+           "g",
+           42
+          ],
+          [
+           "Amendoim",
+           12,
+           "g",
+           18
+          ],
+          [
+           "Açúcar",
+           8,
+           "g",
+           5
+          ]
+         ]
+        }
+       ]
+      }
+     ],
+     "ideias": [
+      {
+       "tempo": "Extra / Drink",
+       "nome": "Milkshake de Melaço de Caju (upsell)",
+       "desc": "puxa o fio doce-picante da entrada para o bar",
+       "custo": 7,
+       "ref": 26
+      },
+      {
+       "tempo": "Cheguei",
+       "nome": "Batata Rústica com Crocante de Parmesão",
+       "desc": "alternativa mais barata de entrada se o coalho não fechar CMV",
+       "custo": 5,
+       "ref": 22
+      }
+     ]
+    },
+    {
+     "id": "argo",
+     "nome": "Argo",
+     "menuNome": "Croc & Croc — Argo",
+     "quem": "Wagner Morais (dono) · Argo Hamburgueria Artesanal · especialista em carnes, fornecedor local validado — indisponível por período indeterminado; menu do circuito ainda não definido",
+     "precoMenu": 59,
+     "pratos": [
+      {
+       "tempo": "Prato da casa",
+       "nome": "⚠ Menu do Argo — a definir",
+       "desc": "Wagner segue indisponível por período indeterminado — retomar quando ele voltar, ou avançar com a equipe se o prazo do circuito apertar",
+       "ref": 0,
+       "comps": [
+        {
+         "t": "A definir",
+         "itens": [
+          [
+           "A confirmar com a equipe",
+           1,
+           "un",
+           0
+          ]
+         ]
+        }
+       ]
+      }
+     ],
+     "ideias": []
+    }
+   ]
+  }
+ ],
+ "insumos": []
+}
